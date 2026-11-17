@@ -2,7 +2,9 @@
 
 AI-powered development workflow using multi-agent orchestration for automated code generation and documentation.
 
-**Author**: [Andrey Quesada](https://github.com/andreyques41) | Software Engineer | Full-Stack Development & AI Workflows
+**Author**: [Andrey Quesada](https://github.com/andreyques41) | Software & AI Engineer
+
+> Earlier work (2025, Lyfter full-stack program). For my current work, see [everna-platform](https://github.com/andreyques41/everna-platform) and my [portfolio](https://andreyques41.github.io).
 
 ---
 
@@ -65,4 +67,4 @@ Each agent has:
 
 **Status**: Core orchestration functional, ongoing enhancements
 
-**GitHub**: [andreyques41/multi-agent-web-dev](https://github.com/andreyques41/multi-agent-web-dev)
+**GitHub**: [andreyq-dev/multi-agent-web-system](https://github.com/andreyq-dev/multi-agent-web-system)
